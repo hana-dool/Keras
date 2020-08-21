@@ -1,9 +1,0 @@
-1 ~ 4주차로 총 4번!
-
-마지막주차는 짧게 프로젝트 해보려고해요~ 
-
-kaggle 에 데이터 하나 끌고와서 NN이랑
-
-regression (xgboost/lgb/randomforest... 등등 staking 하고 blending 한 모델하고) 과 성능비교해보는것으로! 
-
-또는 NN 이랑 regression 을 조합하는 경우 더 성능이 좋아질 수 있는지? 
